@@ -1,0 +1,4 @@
+name: ShiftF
+version: '${project.version}'
+main: pegasus.shiftf.ShiftF
+api-version: '1.20'
